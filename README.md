@@ -4,18 +4,21 @@
 
 I'm a Computer Science graduate from the University of Milan with professional experience designing and developing full-stack applications and IoT systems.
 
-I enjoy understanding complex problems, designing software architectures, modeling data and building solutions from backend services to user-facing applications.
+I'm particularly interested in software architecture, data modeling and distributed systems. I enjoy understanding complex problems and building end-to-end solutions, from database design and backend services to user-facing applications.
 
 ### Technologies
 
 **Languages:** Java, TypeScript, JavaScript, SQL  
 **Backend:** Node.js, Express, Spring Boot, REST APIs  
-**Frontend:** React, Material UI  
+**Frontend:** React, Material UI, Apache ECharts
 **Databases:** MongoDB, MySQL, PostgreSQL  
 **Distributed Systems:** gRPC, MQTT, WebSocket  
-**Tools:** Git, Docker, Docker Compose
+**Infrastructure & Tools:** Git, Docker, Docker Compose, Kong, Nginx
 
 ### Featured Projects
+
+**[leqon — Remote Environmental Noise Monitoring](https://github.com/mauritiuss/leqon)**  
+Full-stack IoT platform designed for remote environmental noise monitoring, featuring real-time data acquisition, centralized device management, historical data visualization and acoustic analysis. Developed as part of my professional experience and Master's thesis.
 
 **[DESM — Distributed Energy Supply Management](https://github.com/mauritiuss/desm)**  
 Java-based distributed simulation featuring peer-to-peer coordination, leader election, gRPC, MQTT and concurrent data processing.
